@@ -7,3 +7,4 @@ A classic Tetris clone built with HTML5 Canvas, styled in the aesthetic of 1980s
 - High-contrast Black & White UI
 
 ## How to Play
+https://nurfaatihahfuad.github.io/retro-tetris/
