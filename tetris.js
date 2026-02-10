@@ -191,7 +191,7 @@ function updateScore() {
 
 // 5. ANIMASI LOOP
 let dropCounter = 0;
-let dropInterval = 1000;
+let dropInterval = 500;
 let lastTime = 0;
 
 function update(time = 0) {
